@@ -1,5 +1,0 @@
-leia 2 
-leia 3
-soma = 2+3
-escreva soma
-fim
