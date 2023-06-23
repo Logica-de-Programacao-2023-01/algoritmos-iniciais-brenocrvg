@@ -1,0 +1,6 @@
+var x int
+leia x
+enquanto (x > 0)
+fatorial = fatorial * x
+x--
+escreva fatorial
