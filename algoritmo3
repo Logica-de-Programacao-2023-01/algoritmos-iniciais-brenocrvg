@@ -1,0 +1,5 @@
+var x, y, z int
+leia x
+leia y
+leia z
+escreva "a média dos números é:", (x + y + z)/3
